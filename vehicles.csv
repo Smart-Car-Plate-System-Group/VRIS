@@ -1,0 +1,4 @@
+plate,make,model,year,colour,owner,contact,registrationStatus,licenceExpiry
+ND 123 GP,Toyota,Corolla,2021,White,Thando Mkhize,DEMO-001,Active,2027-06-30
+CA 456 WC,Volkswagen,Polo,2020,Blue,Lerato Dlamini,DEMO-002,Active,2027-03-31
+KZN 789 EC,Ford,Ranger,2019,Silver,Sam Ndlovu,DEMO-003,Expired,2025-12-31
